@@ -8,13 +8,19 @@ In this project, I have analyzed [Citi Bike Data](https://www.citibikenyc.com/sy
 
 Click [here](https://public.tableau.com/profile/indu.chandrasekharan#!/vizhome/Tableau_Challenge/Story_NYC_City_Bike_Data?publish=yes ) to view all the visualizations and analysis.
 
-## Below are the details of the Tableau Workbook.
+## Tasks Done
 
-### Dashboard to analyze details of specific bike
+[Jupyter Notebook](Scripts/data_cleaning.ipynb) was used to clean the .
 
-### Dashboard to get some overview  of other important City bike user/bike statistics.
+[Tableau workbook](Scripts/Tableau_Challenge.twbx) can be found here.
 
-### A story with Dashboards and sheets.
+### Below are the details of the Tableau Workbook.
+
+#### Dashboard to analyze details of specific bike
+
+#### Dashboard to get some overview  of other important City bike user/bike statistics.
+
+#### A story with Dashboards and sheets.
 
 ### Worksheets to answer following questions are created.
 
