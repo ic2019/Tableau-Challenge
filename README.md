@@ -10,7 +10,7 @@ Click [here](https://public.tableau.com/profile/indu.chandrasekharan#!/vizhome/T
 
 ## Tasks Done
 
-[Jupyter Notebook](Scripts/data_cleaning.ipynb) was used to clean the .
+[Jupyter Notebook](Scripts/data_cleaning.ipynb) was used to clean the data.
 
 [Tableau workbook](Scripts/Tableau_Challenge.twbx) can be found here.
 
